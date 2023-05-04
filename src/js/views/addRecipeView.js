@@ -1,4 +1,4 @@
-import View from './VIEW.JS';
+import View from '../views/view.js';
 import icons from 'url:../../img/icons.svg';
 
 class AddRecipeView extends View {
